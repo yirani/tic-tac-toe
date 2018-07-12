@@ -1,3 +1,5 @@
 import App from './App'
 import Board from './Board'
-export { App, Board }
+import Square from './Square'
+
+export { App, Board, Square }
